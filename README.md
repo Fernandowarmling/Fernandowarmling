@@ -1,16 +1,20 @@
-### Hi there 👋
+# Bem Vindo ao Meu GitHub
 
-<!--
-**Fernandowarmling/Fernandowarmling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Fernando Warmling
 
-Here are some ideas to get you started:
+### :e-mail: warmlingfernnado@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Em migração de carreira de contador para desenvolvedor.
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+
+  
+
+- 🌱 Atualmente estou aprendendo:
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40" />
+
+  
+
+
+
